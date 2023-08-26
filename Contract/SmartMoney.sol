@@ -22,3 +22,4 @@ contract SendWithdrawMoney {
         to.transfer(getContractBalance());
     }
 }
+// Trying dgit
